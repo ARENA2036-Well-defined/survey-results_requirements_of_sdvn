@@ -27,34 +27,19 @@ abstract: >-
   scalability through standardized linkages and data formats
   as well as data consistency for sustainability
   requirements such as the CO2 footprint, as opposed to
-  current Global Value Chains. 
-
-  Industrial requirements and the potential success of
+  current Global Value Chains. Industrial requirements and the potential success of
   implementing SDVN are assesed in a survey, which was
   conducted among industrial partners of ARENA2036, a
   research campus for future mobility and automotive
-  production in Stuttgart. 
-
-  The survey was conducted with two representatives from
-  each
-
-  company, one from the management and one from the
+  production in Stuttgart. The survey was conducted with two representatives from
+  each company, one from the management and one from the
   technical department, who are interviewed about SDVNs.
-
   The survey covers the interviewee’s experience with
   automation systems, the use of emerging technologies
   throughout the company’s value chains, perceived risks,
   sustainability factors, the potential of existing value
   chains, and requirements for further automation in SDVNs.
-
-  The results of the survey are summarizedand interpreted in
-  the context of current technological developments, such as
-  the Eclipse Dataspace Connector, Asset Administration
-  Shell and solutions of Software-defined Manufacturing.
-
-  The survey highlights the industrial requirements,
-  benefits, and research gaps for the future use of SDVNs in
-  companies related to the automotive industry.
+  This repository contains the survey results.
 keywords:
   - Software-defined Value Networks
   - Global Value Chains
