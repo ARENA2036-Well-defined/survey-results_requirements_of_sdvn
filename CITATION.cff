@@ -14,13 +14,7 @@ authors:
     family-names: Dietrich
     email: david.dietrich@isw.uni-stuttgart.de
     orcid: 'https://orcid.org/0000-0002-5558-2090'
-  - name: >-
-      Institute for Control Engineering of Machine Tools and
-      Manufacturing Units (ISW), University of Stuttgart
-    address: Seidenstr. 36
-    city: Stuttgart
-    post-code: '70174'
-    country: DE
+date-released: 2024-05-24
 abstract: >-
   Software-Defined Value Networks (SDVN) aim to increase
   flexibility, value-chain resilience through redundancy,
