@@ -1,0 +1,65 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Industrial Requirements for Software-defined Value
+  Networks: Survey Results
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: David
+    family-names: Dietrich
+    email: david.dietrich@isw.uni-stuttgart.de
+    orcid: 'https://orcid.org/0000-0002-5558-2090'
+  - name: >-
+      Institute for Control Engineering of Machine Tools and
+      Manufacturing Units (ISW), University of Stuttgart
+    address: Seidenstr. 36
+    city: Stuttgart
+    post-code: '70174'
+    country: DE
+abstract: >-
+  Software-Defined Value Networks (SDVN) aim to increase
+  flexibility, value-chain resilience through redundancy,
+  scalability through standardized linkages and data formats
+  as well as data consistency for sustainability
+  requirements such as the CO2 footprint, as opposed to
+  current Global Value Chains. 
+
+  Industrial requirements and the potential success of
+  implementing SDVN are assesed in a survey, which was
+  conducted among industrial partners of ARENA2036, a
+  research campus for future mobility and automotive
+  production in Stuttgart. 
+
+  The survey was conducted with two representatives from
+  each
+
+  company, one from the management and one from the
+  technical department, who are interviewed about SDVNs.
+
+  The survey covers the interviewee’s experience with
+  automation systems, the use of emerging technologies
+  throughout the company’s value chains, perceived risks,
+  sustainability factors, the potential of existing value
+  chains, and requirements for further automation in SDVNs.
+
+  The results of the survey are summarizedand interpreted in
+  the context of current technological developments, such as
+  the Eclipse Dataspace Connector, Asset Administration
+  Shell and solutions of Software-defined Manufacturing.
+
+  The survey highlights the industrial requirements,
+  benefits, and research gaps for the future use of SDVNs in
+  companies related to the automotive industry.
+keywords:
+  - Software-defined Value Networks
+  - Global Value Chains
+  - sustainability
+  - industrial requirements
+  - Asset Administration Shell
+  - Eclipse Dataspace Connector
+license: CC-BY-ND-4.0

@@ -1,0 +1,881 @@
+[
+    {
+      "q_id": "a1e6520e-2c54-4ce7-a64f-e6e1db50bdd7",
+      "category": "1 Company and function",
+      "question": "Which sector would you assign your company to?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "Automotive",
+        "Software and IT",
+        "Machinery and plant engineering",
+        "Transportation and logistics",
+        "Science"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "f4514e03-4967-42e4-8bba-6974f249e96a",
+      "category": "1 Company and function",
+      "question": "Which supplier level of the supply pyramid would you assign your company to?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "OEM",
+        "Tier 1",
+        "Tier 2",
+        "Tier 3",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "8095d063-19f7-4982-b860-9190b6b92191",
+      "category": "1 Company and function",
+      "question": "How many employees does your company have?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "1-9",
+        "10-49",
+        "50-249",
+        ">250",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "c55285d0-13ed-4503-a979-42611fdcf91d",
+      "category": "1 Company and function",
+      "question": "What is your function in the company?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "Mangement",
+        "Development"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "92744cb7-7ac4-4425-9f13-e71f82e2bf6d",
+      "category": "1 Company and function",
+      "question": "Which automation systems do you personally work with?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Input/Output",
+        "SPS",
+        "SCADA",
+        "MES",
+        "ERP",
+        "SCM",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "e6248dfb-5591-49fe-b29a-af68673f709e",
+      "category": "2.1 Sustainability",
+      "question": "What role do environmental aspects and sustainability play in the development of your business strategy and technology investments?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "central",
+        "major",
+        "medium",
+        "minor",
+        "none",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "5b08fae2-2009-4df9-9e11-f5786376d14c",
+      "category": "2.1 Sustainability",
+      "question": "What role do environmental aspects and sustainability play in product development?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "central",
+        "major",
+        "medium",
+        "minor",
+        "none",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "4239fe91-6460-4e03-8da1-da7c95bff79e",
+      "category": "2.1 Sustainability",
+      "question": "What role do environmental aspects and sustainability play in production?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "central",
+        "major",
+        "medium",
+        "minor",
+        "none",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "066f4747-469f-44a3-a63e-8095e8a81718",
+      "category": "2.1 Sustainability",
+      "question": "What are the main drivers for your company's sustainability efforts?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Customer requests",
+        "Regulation",
+        "Marketing",
+        "Cost savings",
+        "Corporate values",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "ff9f343a-531c-4a74-b471-316981bb3582",
+      "category": "2.1 Sustainability",
+      "question": "How highly do you rate the relevance of the three dimensions of sustainability (economic, environmental, social) for your company? economic",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "medium important",
+        "low ",
+        "very low",
+        "unsure",
+        "no answer"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "300c4e0e-e1c0-4be3-befa-d25dfbf5073c",
+      "category": "2.1 Sustainability",
+      "question": "environmental",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "medium important",
+        "low ",
+        "very low",
+        "unsure",
+        "no answer"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "bbedfbb4-4c02-467f-bbdc-642b67db3f76",
+      "category": "2.1 Sustainability",
+      "question": "social",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "medium important",
+        "low ",
+        "very low",
+        "unsure",
+        "no answer"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "be1e9a66-9c8b-4f43-ba2a-3dcedf6af797",
+      "category": "2.2 Sustainability",
+      "question": "Have you ever encountered conflicts of interest between different sustainability aspects when implementing measures in your company?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "yes",
+        "no",
+        "unsure",
+        "no answer"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "4aa1babb-90da-4a44-9457-b93fa744eed4",
+      "category": "2.2 Sustainability",
+      "question": "If so, is there a clear strategy for achieving an overall optimum in such cases?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "yes",
+        "no",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "c0724a53-fa15-4808-a1a5-341a8c2b6c7f",
+      "category": "2.2 Sustainability",
+      "question": "Is your company aiming for climate neutrality? If so, by when?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "no",
+        "yes, until 2030",
+        "yes, until 2035",
+        "yes, until 2040",
+        "yes, until 2045",
+        "yes, until 2050",
+        "yes, later or without date",
+        "no answer"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "13831b86-d8d7-485d-95cd-4208d23d59b3",
+      "category": "2.2 Sustainability",
+      "question": "What challenges do you face when implementing sustainability efforts in the company?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "regulartory \"jungle\"",
+        "Not enough internal resources",
+        "Missing connection between company and product level",
+        "Unclear responsibilities within the company",
+        "Contradictory targets",
+        "Data gaps or data management",
+        "Conflicting goals between sustainability dimensions",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "f881a975-a268-4fd4-9ae2-36952962eeee",
+      "category": "2.2 Sustainability",
+      "question": "What challenges do you face when implementing sustainability efforts in the company? ",
+      "questiontype": "text",
+      "answer_posibilities": [
+        
+      ],
+      "free_text_label": "Answer"
+    },
+    {
+      "q_id": "380103f8-38d8-4237-8427-7fe7bdd99a7d",
+      "category": "3.1 Use of technology",
+      "question": "What automation systems does your company use?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Input/Output",
+        "SPS",
+        "SCADA",
+        "MES",
+        "ERP",
+        "SCM",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "ddb74540-b698-4ea9-8601-13c3c8749098",
+      "category": "3.1 Use of technology",
+      "question": "Which of the following technologies do you already use in your company?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Asset-Administration Shells",
+        "OPC-UA",
+        "Eclipse-Dataspace-Connectors",
+        "MQTT",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "f176405e-85a5-460f-9b99-8cf4a9a02051",
+      "category": "3.1 Use of technology",
+      "question": "Which of the following solutions do you plan to implement in your company in the next 2 years?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Asset-Administration Shells",
+        "OPC-UA",
+        "Eclipse-Dataspace-Connectors",
+        "MQTT",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "29762060-df15-4c84-a5ac-0dd941ab2b26",
+      "category": "3.1 Use of technology",
+      "question": "What future relevance do you see for the asset administration shell?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "9dae0724-1d49-495e-9955-15902200f6b8",
+      "category": "3.1 Use of technology",
+      "question": "Who is currently involved in supply chain management?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Purchase",
+        "Quality",
+        "Production",
+        "Development",
+        "does not exist",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "f9b7de08-c28a-4094-ac15-5d40e8a1fe93",
+      "category": "3.1 Use of technology",
+      "question": "Do you use software to optimize and manage your SCM processes?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "yes",
+        "no",
+        "unsure"
+      ],
+      "free_text_label": "If yes which:"
+    },
+    {
+      "q_id": "5b60e067-1607-4de3-bd27-846cbb052ee3",
+      "category": "3.1 Use of technology",
+      "question": "How are your suppliers and customers integrated into the value creation process?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Manual contract negotiations",
+        "Automated ordering processes",
+        "Suppliers/customer portals",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "51e76dc6-591d-4af1-8e1b-7ef30b237f61",
+      "category": "3.2 Use of technology",
+      "question": "What obstacles do you see in the implementation of automation technologies in your company?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "High costs",
+        "Skilled labor shortage",
+        "Complexity of the technology",
+        "Integration into existing systems",
+        "Data protection and security",
+        "Legal and regulatory hurdles and Certification"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "7a81aaa9-baff-456e-bb2e-8f3a1cc7150f",
+      "category": "3.2 Use of technology",
+      "question": "What obstacles do you see in the use of automation technologies in your company?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "High costs",
+        "Skilled labor shortage",
+        "Complexity of the technology",
+        "Integration into existing systems",
+        "Data protection and security",
+        "Legal and regulatory hurdles and Certification"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "f25a4599-fcd7-48f6-91ab-9fd99b444508",
+      "category": "3.2 Use of technology",
+      "question": "How do you assess your company's current capacities in terms of digital transformation and innovation?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "f6183b16-ed35-469f-8a64-67860a475d28",
+      "category": "3.2 Use of technology",
+      "question": "What role do open source technologies play in your corporate strategy for digital innovation?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "central",
+        "major",
+        "medium",
+        "minor",
+        "none",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "67c40d44-8bd9-46ec-a171-d6eafc995198",
+      "category": "3.2 Use of technology",
+      "question": "Do you personally contribute to the development of open source technologies?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "yes",
+        "no",
+        "no, but as company"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "3bfd1f1d-4cce-4044-9439-a9559c4c009c",
+      "category": "4 Disruption",
+      "question": "To what extent have your supply chains been impacted by the coronavirus pandemic?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "da2c6d66-025e-4d8b-8829-013c82012453",
+      "category": "4 Disruption",
+      "question": "To what extent have you taken measures in the last 5 years to prepare your supply and value chains for uncertainty and volatility?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "f69a9d96-99da-449d-b18c-cd126979a0a1",
+      "category": "4 Disruption",
+      "question": "\nWhat strategies are you pursuing to increase your company's resilience to future crises?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Diversification of supply chains",
+        "Investments in technology and automation",
+        "Strengthening the financial reserves",
+        "Cooperation with other companies",
+        "Development of emergency plans and scenarios",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "eeb313b8-481f-4443-b12e-a30ae4b3b8b3",
+      "category": "4 Disruption",
+      "question": "How resilient do they generally consider your supply chains to be?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "777d24f9-86f4-480b-99fd-c7d0b5895cf8",
+      "category": "4 Disruption",
+      "question": "How important do you see this for the next 5 years?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "4e02d95d-d77b-45b2-b753-3c8295d78e90",
+      "category": "4 Disruption",
+      "question": "What role does the criticality of raw materials play for your company?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "central",
+        "major",
+        "medium",
+        "minor",
+        "none",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "4cffd00c-7340-48b6-9ef3-668f67896334",
+      "category": "5.1 SDVN",
+      "question": "With regard to cross-company communication, which of the following factors do you expect from your suppliers or customers? Security",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "a24d7e1d-2dc8-4487-a18e-e816f6645235",
+      "category": "5.1 SDVN",
+      "question": "Standardization",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "499ad719-c630-402d-94eb-bba68c51fa95",
+      "category": "5.1 SDVN",
+      "question": "Regulated data access",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "50e3d52c-5c94-4707-9fe3-1e495c3871fd",
+      "category": "5.1 SDVN",
+      "question": "Interoperability",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "7458d1d1-4fa7-4d18-8f95-1275ffae26b3",
+      "category": "5.1 SDVN",
+      "question": "Transparency",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "525d1f29-fa24-4f09-9f82-06439cfdaaeb",
+      "category": "5.1 SDVN",
+      "question": "Compliance",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "d495a347-f51e-460e-8eec-12de467d7690",
+      "category": "5.1 SDVN",
+      "question": "Flexibility",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "b88f29d0-2f9a-4c95-b165-4ba4ec78e1a1",
+      "category": "5.1 SDVN",
+      "question": "Technological compatibility of automation interfaces",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "ef0c51b2-f9e8-4536-a316-a1423f6ab301",
+      "category": "5.1 SDVN",
+      "question": "Further factors",
+      "questiontype": "text",
+      "answer_posibilities": [
+        
+      ],
+      "free_text_label": "Answer"
+    },
+    {
+      "q_id": "769c794b-6c3c-41d8-83d3-14d16c45ae70",
+      "category": "5.2 SDVN",
+      "question": "With regard to cross-company communication, how important is it to them to engage in the following points: Security",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "18a63138-fda0-4991-8755-c273b00de63f",
+      "category": "5.2 SDVN",
+      "question": "Standardization",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "2a88f7f4-dae4-4b3e-b621-cdf1f7b76433",
+      "category": "5.2 SDVN",
+      "question": "Regulated data access",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "cd74f1ca-3d52-4683-bf3f-dfdeef505d7b",
+      "category": "5.2 SDVN",
+      "question": "Interoperability",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "24f22dab-10f6-4e4f-b3d6-61fb9fccbcbc",
+      "category": "5.2 SDVN",
+      "question": "Transparency",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "58ca64e8-dbc9-419b-a8ed-518eb37d0633",
+      "category": "5.2 SDVN",
+      "question": "Compliance",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "8b6c4194-44d2-408e-8f1b-1e4364e65db7",
+      "category": "5.2 SDVN",
+      "question": "Flexibility",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "9ab83cc4-51d3-488d-99cc-5ff1219da224",
+      "category": "5.2 SDVN",
+      "question": "Technological compatibility of automation interfaces",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "e0d29be1-4d51-4bc4-91b2-979394922030",
+      "category": "5.2 SDVN",
+      "question": "Further factors",
+      "questiontype": "text",
+      "answer_posibilities": [
+        
+      ],
+      "free_text_label": "Answer"
+    },
+    {
+      "q_id": "3fbb3314-6d89-4bb1-b410-be64185546ad",
+      "category": "5.3 SDVN",
+      "question": "How do you rate the potential of value networks compared to conventional global value chains?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "very high",
+        "high",
+        "moderate",
+        "low",
+        "negligible",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "2c135691-56df-4ef9-bb2e-e2f124a43ebb",
+      "category": "5.3 SDVN",
+      "question": "What existing automation systems would you build value networks on?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Input/Output",
+        "SPS",
+        "SCADA",
+        "MES",
+        "ERP",
+        "SCM",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "6035b94b-234e-4d4a-9b16-f5ca7faface3",
+      "category": "5.3 SDVN",
+      "question": "What would you expect from the use of a software-defined value network?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Greater flexibility",
+        "Improved reliability through redundancy",
+        "Scalability",
+        "Cost savings",
+        "Faster response times",
+        "Better data consistency",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "d3ca5da7-1c15-4b99-8862-5ff520267d06",
+      "category": "5.3 SDVN",
+      "question": "Are you familiar with data rooms as a concept for cross-company information management?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "yes, in detail",
+        "yes, moderate",
+        "a bit",
+        "heard of",
+        "not at all"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "2b35141f-e3f1-42f0-9852-b4730a1a3ee0",
+      "category": "5.3 SDVN",
+      "question": "In your opinion, what key factors are still missing for the successful implementation of automated value creation networks?",
+      "questiontype": "multiple choice",
+      "answer_posibilities": [
+        "Standardized data formats",
+        "Interoperability of different systems",
+        "Sufficient security measures for data exchange",
+        "Legal framework",
+        "Manageable technological solutions",
+        "Test environments",
+        "unsure"
+      ],
+      "free_text_label": "Other"
+    },
+    {
+      "q_id": "65a4cea2-c96d-4dd3-8e19-7b0bb8555f79",
+      "category": "5.3 SDVN",
+      "question": "To what extent would you want a higher-level system to orchestrate your value creation processes and make data and services available to network partners, as long as it contributes to a comprehensive improvement in value creation?",
+      "questiontype": "single choice",
+      "answer_posibilities": [
+        "with clarified responsibility",
+        "only if it contributes to the company's own value creation",
+        "only with highly restricted configuration options",
+        "exclusively the commissioning of a product",
+        "not at all",
+        "unsure"
+      ],
+      "free_text_label": ""
+    },
+    {
+      "q_id": "bfa825ed-1965-4339-aea0-b84cf229336f",
+      "category": "5.3 SDVN",
+      "question": "What challenges do you face when integrating new suppliers or introducing new products into your existing supply chain?",
+      "questiontype": "text",
+      "answer_posibilities": [
+        
+      ],
+      "free_text_label": "Answer"
+    },
+    {
+      "q_id": "e36a2881-f80c-4652-9694-75e897f2f98a",
+      "category": "6 Other",
+      "question": "Do you have any further comments?",
+      "questiontype": "text",
+      "answer_posibilities": [
+        
+      ],
+      "free_text_label": "Answer"
+    }
+  ]
