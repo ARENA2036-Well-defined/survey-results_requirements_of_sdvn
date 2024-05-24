@@ -1,7 +1,7 @@
 # Industrial Requirements for Software-defined Value Networks: Survey Results
 
 This repository contains the survey results regarding industrial requirements for Software-defined Value Networks (SDVN), which was conducted among industrial partners of [ARENA2036](https://arena2036.de/), a research campus for future mobility and automotive production in Stuttgart.
-An evaluation of the results and the motivation of SDVN can be found in an according [papers](#references)
+An evaluation of the results and the motivation of SDVN can be found in according [references](#references).
 
 ## About the Survey
 SDVN aim to increase flexibility, value-chain resilience through redundancy, scalability through standardized linkages and data formats as well as data consistency for sustainability requirements such as the CO2 footprint, as opposed to current Global Value Chains. 
